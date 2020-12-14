@@ -1,0 +1,5 @@
+﻿  Lab10.2.cpp
+Y:\Programming\Projects\Lab10.2\Lab10.2\Lab10.2.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Lab10.2\Lab10.2\Lab10.2.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Lab10.2\Lab10.2\Lab10.2.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Lab10.2.vcxproj -> Y:\Programming\Projects\Lab10.2\Debug\Lab10.2.exe
